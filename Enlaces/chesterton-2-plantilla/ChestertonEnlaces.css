@@ -1,0 +1,37 @@
+
+body{
+    background-color: hsl(14, 20%, 45%)
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    text-align: justify;
+    margin-left:15% ;
+    margin-right:15% ;
+    color: white;
+    font-family: sans-serif;
+    line-height: 48px;
+    margin-top: 0%;
+}
+
+p{
+    font-size: 150%;
+}
+
+p.enlace{
+    margin-right:15% ;
+    margin-left:15% ;
+    font-size: 225%;
+    text-transform: uppercase;
+}
+
+u{
+    border: hsl(195, 61%, 25%) 5px solid;
+    background-color: hsl(194, 60%, 90%);
+    color: hsl(195, 61%, 25%);
+    border-radius: 10px;
+    padding: 4px;
+}

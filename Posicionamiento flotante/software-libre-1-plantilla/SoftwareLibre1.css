@@ -1,0 +1,32 @@
+
+body{
+    font-family: sans-serif;
+    background-color: hsl(234, 20%, 90%);
+}
+
+h1{
+    background-color: hsl(235, 20%, 25%);
+    color: white;
+    margin:-1%;
+    font-size: 400%;
+    padding:5px;
+}
+
+h2#Escritorio{
+    background-color: hsl(235, 20%, 25%);
+    color: white
+}
+
+h2#Internet{
+    background-color: hsl(235, 20%, 25%);
+    color: white
+}
+
+p{
+    background-color: white;
+}
+
+h3{
+    background-color: hsl(125, 61%, 40%);
+}
+
